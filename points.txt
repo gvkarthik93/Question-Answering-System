@@ -1,0 +1,8 @@
+Step #1:
+Motivation for #1 ?
+What were the expectations?
+What were the results?
+Why did it work/  not work?
+F1 score and accuracy
+Why is F1 score high/low?
+Why is accuracy high or low?
